@@ -1,0 +1,38 @@
+body{
+  background-color: rgba(171, 212, 206, 0.763);
+  line-height: 24px;
+}
+
+.description{
+  background-color: rgba(197, 186, 162, 0.941);
+  text-align: center;
+}
+
+div{
+  background-color:#f4d8b8;
+}
+
+.objective{
+  font-style: italic;
+  font-size: large;
+ }
+
+#education{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3{
+  background-color:rgb(163, 120, 63); 
+  font-family: cursive;
+  color: #d40606;
+}
+
+.skills{
+  font-weight: 600;
+}
+
+#projects{
+  font-weight: 600;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgba(22, 3, 119, 0.735);
+}
